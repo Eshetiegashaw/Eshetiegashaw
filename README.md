@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Einvoice compilance**
 
-- 🌱 I’m currently learning **Dart and hosting services**
-
 - 👯 I’m looking to collaborate on **ERPNext customizations projects**
 
 - 🤝 I’m looking for help with **Devops concepts**
