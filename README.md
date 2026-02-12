@@ -15,16 +15,22 @@
 
 ### 🌐 Connect with Me
 
-<p align="left">
-  🤝 <a href="https://www.linkedin.com/in/eshetie-gashaw-7a3939162" target="_blank">
-    LinkedIn – Eshetie Gashaw
-  </a>
-</p>
-<p align="right">
-  🤝 <a href="https://my-profile-roan-two.vercel.app/ target="_blank">
-    Website – Eshetie Gashaw
-  </a>
-</p>
+<div class="row">
+  <div class="col-md-6">
+    <p align="left">
+      🤝 <a href="https://www.linkedin.com/in/eshetie-gashaw-7a3939162" target="_blank">
+        LinkedIn – Eshetie Gashaw
+      </a>
+    </p>
+  </div>
+  <div class="col-md-6">
+    <p align="">
+      🌐 <a href="https://my-profile-roan-two.vercel.app/ target="_blank">
+        Website – Eshetie Gashaw
+      </a>
+    </p>
+  </div>
+</div>
 ---
 
 ### 🛠️ Languages & Tools
