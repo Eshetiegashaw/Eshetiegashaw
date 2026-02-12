@@ -15,21 +15,17 @@
 
 ### 🌐 Connect with Me
 
-<div class="row">
-  <div class="col-md-6">
+<div class="row"> 
     <p align="left">
       🤝 <a href="https://www.linkedin.com/in/eshetie-gashaw-7a3939162" target="_blank">
         LinkedIn – Eshetie Gashaw
       </a>
-    </p>
-  </div>
-  <div class="col-md-6">
-    <p align="">
+    </p> 
+    <p align="left">
       🌐 <a href="https://my-profile-roan-two.vercel.app/ target="_blank">
         Website – Eshetie Gashaw
       </a>
-    </p>
-  </div>
+    </p> 
 </div>
 ---
 
